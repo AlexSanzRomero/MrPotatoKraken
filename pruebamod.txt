@@ -1,1 +1,2 @@
-conflicto de verdad v2
+conflicto real
+stash
